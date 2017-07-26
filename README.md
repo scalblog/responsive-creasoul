@@ -1,3 +1,3 @@
 # responsive-creasoul
-exercice responsive
+exercice responsive :
 intégration des maquettes JPEG
