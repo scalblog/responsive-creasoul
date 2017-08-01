@@ -1,4 +1,5 @@
 # responsive-creasoul
-Responsive Design : Media Queries; 
+Responsive Design avec Media Queries.
+<br>
 intégration des maquettes JPEG
 
