@@ -3,4 +3,4 @@ Responsive Design avec **media queries**.
 <br>
 intégration des maquettes JPEG fournies
 <br>
-2017
+<ub>2017</sub>
